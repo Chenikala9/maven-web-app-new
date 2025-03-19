@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Govardhan Reddy - Software Training Institute <font></h1>
+<h1><font color='red'> Welcome to ch Govardhan Reddy - Software Training Institute <font></h1>
 
 <a href="https://Govardhantech.com/online-training-schedules">Click Here To See Govardhan IT Training Schedules</a>
   
