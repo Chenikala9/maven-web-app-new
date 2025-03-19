@@ -2,7 +2,7 @@
 <body>
 <h1><font color='red'> Welcome to ch Govardhan Reddy - Software Training Institute <font></h1>
 
-<a href="https://Govardhantech.com/online-training-schedules">Click Here To See Govardhan IT Training Schedules</a>
+<a href="https://Govardhantech.com/online-training-schedules">Click Here  To See Govardhan IT Training Schedules</a>
   
   <h2> Call Us : +91-7893725206 / +91 - 9492118971 </h2>
   
